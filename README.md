@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekMauryaGEEK
 - 👀 I’m interested in coding gamming anime yes i am nerd  
-- 🌱 I’m currently learning html css js
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on frontend and backend projects
 - 📫 How to reach me abhi909195i2i@gmail.com
 - 😄 Pronouns: what is this
