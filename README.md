@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekmauryageek" alt="abhishekmauryageek" /></a> </p>
 
-- 🔭 I’m currently working on React **Portfolio**
+- 🔭 I’m currently working on Full-Stack-Projects
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning Backend
 
-- 💬 Ask me about **Blender,Linux,Aftereffects**
+- 💬 Ask me about **Blender,Linux,Aftereffects,WEb-dev,Anime**
 
 - 📫 How to reach me **abhi909195i2i@gmail.com**
 
