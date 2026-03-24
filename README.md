@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=FFFFFF&theme=cobalt&animation=fadeIn" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Knowledge%20seems%20absolute%20until%20someone%20wiser%20reveals%20its%20limits&fontSize=25&fontColor=FFFFFF&theme=cobalt&animation=fadeIn" />
 </div>
 
 ---
