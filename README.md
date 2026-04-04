@@ -1,125 +1,109 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Knowledge%20seems%20absolute%20until%20someone%20wiser%20reveals%20its%20limits&fontSize=25&fontColor=FFFFFF&theme=cobalt&animation=fadeIn" />
+  <img src="https://c.tenor.com/cqoaoKaP8YIAAAAd/tenor.gif" height="200px" style="border-radius: 20px;">
+  <h1>Abhishek Maurya</h1>
+  <h3>⚡ Backend Architect | ⛓️ Web3 & Blockchain | 🛡️ Cybersecurity Enthusiast</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/abhishek-maurya-9829b3328" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.leetcode.com/notlim" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    </a>
+    <a href="mailto:abhi909195i2i@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
 </div>
 
----
-
-<h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
-<h3 align="center">A Hungry Developer 🚀</h3>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekmauryageek&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekmauryageek&theme=dracula" />
-</p>
-
----
-
-### 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **WEB 3**
-- 🌱 I’m currently learning **Blockchain**
-- 💬 Ask me about **Blender, Linux, After Effects, Web-dev, Anime**
-- 📫 How to reach me: **abhi909195i2i@gmail.com**
-
----
-
-### ⛓️ Web3 & Blockchain
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hardhat-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Foundry-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmauryageek&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmauryageek&theme=tokyonight" alt="GitHub Streak" height="170">
 </div>
 
----
-
-### 🧠 Web3 Focus Areas
-
-- Smart Contract Development (Solidity)
-- Ethereum & EVM Chains
-- DApp Development (Frontend + Web3)
-- Gas Optimization Basics
-- IPFS Storage
-- Hardhat / Foundry Testing & Deployment
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/abhishek-maurya-9829b3328"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://medium.com/@abhi909195i2i"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/></a>
-<a href="https://www.codechef.com/users/hakerotaku56"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/></a>
-<a href="https://www.hackerrank.com/abhi909195i2i"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/></a>
-<a href="https://codeforces.com/profile/abhi909195i2i"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/></a>
-<a href="https://www.leetcode.com/notlim"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50"/>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmauryageek&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmauryageek&layout=compact&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmauryageek&theme=dracula" />
-</p>
-
----
-
-### ⚡ Contribution Graph (Animated)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmauryageek&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://media1.tenor.com/m/tJjknfpHPXMAAAAC/obito-obito-uchiha.gif" width="300" height="170" style="border-radius: 15px;">
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmauryageek&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmauryageek&theme=react-dark" width="100%">
+</div>
+
+## 🧠 Core Focus Areas
+
+- **Backend Engineering** - Building scalable server-side logic using Node.js, Express, and high-performance APIs.
+- **Web3 & Smart Contracts** - Developing secure, gas-optimized protocols on Ethereum/EVM using Solidity.
+- **Security & Penetration Testing** - Exploring network vulnerabilities and smart contract auditing.
+- **DApp Infrastructure** - Integrating decentralized storage (IPFS) with modern backend environments.
+
+## 💻 Tech Stack
+
+<div align="center">
+  
+  ### 🌐 Web3 & Blockchain
+  <p>
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+    <img src="https://img.shields.io/badge/Hardhat-FFDB00?style=for-the-badge&logo=hardhat&logoColor=black">
+    <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethers&logoColor=white">
+    <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white">
+    <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white">
+  </p>
+
+  ### ⚙️ Backend & Database
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white">
+  </p>
+
+  ### 🛡️ Cybersecurity Tools
+  <p>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white">
+    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  </p>
+
+  ### 🛠️ Languages & DevOps
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </p>
+</div>
+
+## 🌱 Experience
+
+- **GeeksforGeeks ABESEC** - Video Editor (Oct 2025 - Present)
+- **aces.ABESEC** - Graphic Designer (Jan 2025 - Jul 2025)
+
+## 🌐 Competitive Programming
+
+- **CodeChef**: [hakerotaku56](https://www.codechef.com/users/hakerotaku56)
+- **Codeforces**: [abhi909195i2i](https://codeforces.com/profile/abhi909195i2i)
+- **LeetCode**: [notlim](https://www.leetcode.com/notlim)
+
+## 🎓 Education
+
+- **ABES Engineering College** - B.Tech (2022-2026)
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/tPnc00aADZ8AAAAd/anime-jujutsu-kaisen.gif" width="420" height="200" style="border-radius: 20px;">
 </div>
 
 ---
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Building%20in%20Web3%20⚡&fontSize=25&fontColor=FFFFFF&theme=cobalt&animation=fadeIn" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekmauryageek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
