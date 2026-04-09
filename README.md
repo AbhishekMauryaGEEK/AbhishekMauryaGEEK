@@ -98,7 +98,7 @@
 
 ## 🎓 Education
 
-- **ABES Engineering College** - B.Tech (2022-2026)
+- **ABES Engineering College** - B.Tech (2024-2028)
 
 <div align="center">
   <img src="https://media1.tenor.com/m/tPnc00aADZ8AAAAd/anime-jujutsu-kaisen.gif" width="420" height="200" style="border-radius: 20px;">
